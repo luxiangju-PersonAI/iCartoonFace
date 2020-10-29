@@ -23,7 +23,7 @@ The iCartoonFace detection dataset is a large-scale dataset established for cart
 
 ------
 
-<img align=left src="E:\2020_code\iCartoonFace\figures\recognition.png" style="zoom:150%;" />
+<img align=left src="figures\recognition.png" style="zoom:150%;" />
 
 The iCartoonFaceThe iCartoonFace recognition dataset is a large-scale challenging dataset established for cartoon face recognition. The above figure visualizes the statistics of the proposed dataset. In the iCartoonFace recognition task, given a probe photo and a gallery containing at least one photo of the same cartoon character, the algorithm needs to rank-orders all photos in the gallery based on similarity to the probe.
 
