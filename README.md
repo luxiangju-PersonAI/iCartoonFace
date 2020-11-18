@@ -10,7 +10,7 @@ The iCartoonFace project is supported by iQIYI. And this repository provides iCa
 > **Cartoon Face Recognition: A Benchmark Dataset.**   
 > Yi Zheng, Yifan Zhao, Mengyuan Ren, He Yan, Xiangju Lu1, Junhui Liu, Jia Li   
 > arXiv: https://arxiv.org/pdf/1907.13394.pdf    
-> video: https://www.youtube.com/watch?v=xOT1MiEp-uU&t=84s    
+> video: https://www.youtube.com/watch?v=xOT1MiEp-uU    
 > Project Page: https://iqiyi.cn/icartoonface     
 
 ## Cartoon Face Detection
