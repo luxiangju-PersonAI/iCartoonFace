@@ -35,6 +35,12 @@ Reference method: [insightface](https://github.com/deepinsight/insightface) or [
 - The iCartoonFace detection train and test dataset:  [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/bUbcwxz )  (密码: 1ZdlyJ)or  [Google Drive](https://drive.google.com/drive/folders/1ARKrhmGAMwVNr8M9kXgDzMUDhzusLxb7?usp=sharing)
 - The iCartoonFace recognition train and test dataset: [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/bUbdw5A ) (密码: 5Kv2M1)or  [Google Drive](https://drive.google.com/drive/folders/1m6pAL9Wbn8B1td0hFUj9RVRrSweNKskW?usp=sharing)
 
+##  Test Dataset Label
+
+- iCartoonFace detection test dataset label:  [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/b8r3nn8 )  (密码: 2s6h2X)or  [Google Drive](https://drive.google.com/file/d/1qiHHCP1RvMl6kH017pAV8-QDdcMyy8PR/view?usp=sharing)   
+- iCartoonFace recognition test dataset label: [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/b8r6fX2 ) (密码: X6fgYZ)or  [Google Drive](https://drive.google.com/file/d/1HmmPgvE6xlGr_UOmEac6pczHLtYjipzp/view?usp=sharing)   
+- As for the recognition test dataset label, it consists of filename x1 y1 x2 y2 label_id. If the label id equals -1, it represents the image label does not belong to any of the current classes.
+
 ## Acknowledgement
 
 
