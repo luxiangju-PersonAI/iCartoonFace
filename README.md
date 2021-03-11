@@ -1,4 +1,8 @@
 # iCartoonFace
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![stars](https://img.shields.io/github/stars/luxiangju-PersonAI/iCartoonFace.svg?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/luxiangju-PersonAI/iCartoonFace.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/luxiangju-PersonAI/iCartoonFace.svg)
 
 
 <img align=left src="figures/illustration.png" alt="illustration" style="zoom:100%;" />
