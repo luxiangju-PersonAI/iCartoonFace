@@ -13,7 +13,7 @@ The iCartoonFace project is supported by iQIYI. And this repository provides iCa
 
 > **Cartoon Face Recognition: A Benchmark Dataset.**   
 > Yi Zheng, Yifan Zhao, Mengyuan Ren, He Yan, Xiangju Lu1, Junhui Liu, Jia Li   
-> [Download Dataset](#Dataset Download): [Detection](https://drive.google.com/drive/folders/1ARKrhmGAMwVNr8M9kXgDzMUDhzusLxb7?usp=sharing)/[Recognition](https://drive.google.com/drive/folders/1m6pAL9Wbn8B1td0hFUj9RVRrSweNKskW?usp=sharing)    
+> [Download Dataset](#Download): [Detection](https://drive.google.com/drive/folders/1ARKrhmGAMwVNr8M9kXgDzMUDhzusLxb7?usp=sharing)/[Recognition](https://drive.google.com/drive/folders/1m6pAL9Wbn8B1td0hFUj9RVRrSweNKskW?usp=sharing)    
 > [Video](https://www.youtube.com/watch?v=xOT1MiEp-uU): https://www.youtube.com/watch?v=xOT1MiEp-uU    
 > [Paper](https://arxiv.org/pdf/1907.13394.pdf): https://arxiv.org/pdf/1907.13394.pdf    
 > [Citation](#Citation): https://dl.acm.org/doi/abs/10.1145/3394171.3413726   
@@ -33,7 +33,7 @@ The iCartoonFace recognition dataset is a large-scale challenging dataset establ
 
 Reference method: [insightface](https://github.com/deepinsight/insightface) or [reid-strong-baseline](https://github.com/michuanhaohao/reid-strong-baseline)
 
-## Dataset Download
+## Download
 
 
 - The iCartoonFace detection train and test dataset:  [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/bUbcwxz )  (密码: 1ZdlyJ)or  [Google Drive](https://drive.google.com/drive/folders/1ARKrhmGAMwVNr8M9kXgDzMUDhzusLxb7?usp=sharing)
