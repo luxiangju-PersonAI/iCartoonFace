@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/luxiangju-PersonAI/iCartoonFace.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/luxiangju-PersonAI/iCartoonFace.svg)
 
-[**Dataset**](#Download)  [**Citation**](#Citation) [**Video**](https://www.youtube.com/watch?v=xOT1MiEp-uU) [**Paper**](https://arxiv.org/pdf/1907.13394.pdf) [**Project**](https://iqiyi.cn/icartoonface)   
+### [**Dataset**](#Download)  [**Citation**](#Citation) [**Video**](https://www.youtube.com/watch?v=xOT1MiEp-uU) [**Paper**](https://arxiv.org/pdf/1907.13394.pdf) [**Project**](https://iqiyi.cn/icartoonface)   
 
 <img align=left src="figures/illustration.png" alt="illustration" style="zoom:100%;" />
 
