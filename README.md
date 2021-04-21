@@ -30,14 +30,14 @@ The iCartoonFace recognition dataset is a large-scale challenging dataset establ
 
 Reference method: [insightface](https://github.com/deepinsight/insightface) or [reid-strong-baseline](https://github.com/michuanhaohao/reid-strong-baseline)
 
-## Download
+## Dataset
 
 
 - The iCartoonFace detection train and test dataset:  [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/bUbcwxz )  (密码: 1ZdlyJ)or  [Google Drive](https://drive.google.com/drive/folders/1ARKrhmGAMwVNr8M9kXgDzMUDhzusLxb7?usp=sharing)
 - The iCartoonFace recognition train and test dataset: [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/bUbdw5A ) (密码: 5Kv2M1)or  [Google Drive](https://drive.google.com/drive/folders/1m6pAL9Wbn8B1td0hFUj9RVRrSweNKskW?usp=sharing)
 - The iCartoonFace recognition personid infomations: [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/cji77eS ) (密码: N163o4)or  [Google Drive](https://drive.google.com/file/d/1rOmoseZXAKG5y7mkEsVAoaWan2dIrMzD/view?usp=sharing)
 
-##  Test Dataset Label
+## Evaluation
 
 - iCartoonFace detection test dataset label:  [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/b8r3nn8 )  (密码: 2s6h2X)or  [Google Drive](https://drive.google.com/file/d/1qiHHCP1RvMl6kH017pAV8-QDdcMyy8PR/view?usp=sharing)   
 - iCartoonFace recognition test dataset label: [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/b8r6fX2 ) (密码: X6fgYZ)or  [Google Drive](https://drive.google.com/file/d/1HmmPgvE6xlGr_UOmEac6pczHLtYjipzp/view?usp=sharing)   
