@@ -5,6 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/luxiangju-PersonAI/iCartoonFace.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/luxiangju-PersonAI/iCartoonFace.svg)
 
+[**Dataset**](#Download)  [**Citation**](#Citation) [**Video**](https://www.youtube.com/watch?v=xOT1MiEp-uU) [**Paper**](https://arxiv.org/pdf/1907.13394.pdf) [**Project**](https://iqiyi.cn/icartoonface)   
 
 <img align=left src="figures/illustration.png" alt="illustration" style="zoom:100%;" />
 
@@ -13,8 +14,7 @@
 The iCartoonFace project is supported by iQIYI. And this repository provides iCartoonFace dataset and baseline approaches of the following paper:
 
 > **Cartoon Face Recognition: A Benchmark Dataset.**   
-> Yi Zheng, Yifan Zhao, Mengyuan Ren, He Yan, Xiangju Lu1, Junhui Liu, Jia Li   
-> [Dataset](#Download)  [Citation](#Citation) [Video](https://www.youtube.com/watch?v=xOT1MiEp-uU) [Paper](https://arxiv.org/pdf/1907.13394.pdf) [Project](https://iqiyi.cn/icartoonface)   
+> Yi Zheng, Yifan Zhao, Mengyuan Ren, He Yan, Xiangju Lu1, Junhui Liu, Jia Li     
 
 ## Cartoon Face Detection
 
