@@ -1,4 +1,5 @@
 # iCartoonFace
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![stars](https://img.shields.io/github/stars/luxiangju-PersonAI/iCartoonFace.svg?style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/luxiangju-PersonAI/iCartoonFace.svg)
@@ -13,11 +14,7 @@ The iCartoonFace project is supported by iQIYI. And this repository provides iCa
 
 > **Cartoon Face Recognition: A Benchmark Dataset.**   
 > Yi Zheng, Yifan Zhao, Mengyuan Ren, He Yan, Xiangju Lu1, Junhui Liu, Jia Li   
-> [Download Dataset](#Download): [Detection](https://drive.google.com/drive/folders/1ARKrhmGAMwVNr8M9kXgDzMUDhzusLxb7?usp=sharing)/[Recognition](https://drive.google.com/drive/folders/1m6pAL9Wbn8B1td0hFUj9RVRrSweNKskW?usp=sharing)    
-> [Video](https://www.youtube.com/watch?v=xOT1MiEp-uU): https://www.youtube.com/watch?v=xOT1MiEp-uU    
-> [Paper](https://arxiv.org/pdf/1907.13394.pdf): https://arxiv.org/pdf/1907.13394.pdf    
-> [Citation](#Citation): https://dl.acm.org/doi/abs/10.1145/3394171.3413726   
-> [Project Page](https://iqiyi.cn/icartoonface): https://iqiyi.cn/icartoonface     
+> [Download Dataset](#Download)  [Citation](#Citation) [Video](https://www.youtube.com/watch?v=xOT1MiEp-uU) [Paper](https://arxiv.org/pdf/1907.13394.pdf) [Project Page](https://iqiyi.cn/icartoonface)   
 
 ## Cartoon Face Detection
 
@@ -58,9 +55,9 @@ We would like to thank Song Shi and his team for the organization of competition
 If you use the iCartoonFace dataset for your research, please cite our paper as follows.
 
 > @inproceedings{zheng2020cartoon,    
->   title={Cartoon Face Recognition: A Benchmark Dataset},    
->   author={Zheng, Yi and Zhao, Yifan and Ren, Mengyuan and Yan, He and Lu, Xiangju and Liu, Junhui and Li, Jia},    
->   booktitle={Proceedings of the 28th ACM International Conference on Multimedia},    
->   pages={2264--2272},    
->   year={2020}    
+> title={Cartoon Face Recognition: A Benchmark Dataset},    
+> author={Zheng, Yi and Zhao, Yifan and Ren, Mengyuan and Yan, He and Lu, Xiangju and Liu, Junhui and Li, Jia},    
+> booktitle={Proceedings of the 28th ACM International Conference on Multimedia},    
+> pages={2264--2272},    
+> year={2020}    
 > }   
