@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/luxiangju-PersonAI/iCartoonFace.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/luxiangju-PersonAI/iCartoonFace.svg)
 
-### **Cartoon Face Recognition: A Benchmark Dataset.** 
+## **Cartoon Face Recognition: A Benchmark Dataset**
 
 ###   
 
