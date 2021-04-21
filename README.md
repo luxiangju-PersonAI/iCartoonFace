@@ -15,7 +15,7 @@
 
 The iCartoonFace project is supported by iQIYI. And this repository provides iCartoonFace dataset and baseline approaches of the following paper.
 
-[**Dataset Download**](#Dataset)  |  [**Citation the Work**](#Citation)  | [**Video Presentation**](https://www.youtube.com/watch?v=xOT1MiEp-uU)  | [**Paper Arxiv(Pdf)**](https://arxiv.org/pdf/1907.13394.pdf)  | [**Project Website**](https://iqiyi.cn/icartoonface)  
+[**Dataset Download**](#Dataset)  |  [**Citation**](#Citation)  | [**Video Presentation**](https://www.youtube.com/watch?v=xOT1MiEp-uU)  | [**Paper Arxiv(Pdf)**](https://arxiv.org/pdf/1907.13394.pdf)  | [**Project Website**](https://iqiyi.cn/icartoonface)  
 
 ## Cartoon Face Detection
 
