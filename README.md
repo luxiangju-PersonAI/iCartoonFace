@@ -36,7 +36,7 @@ Reference method: [insightface](https://github.com/deepinsight/insightface) or [
 
 - The iCartoonFace detection train and test dataset:  [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/bUbcwxz )  (密码: 1ZdlyJ)or  [Google Drive](https://drive.google.com/drive/folders/1ARKrhmGAMwVNr8M9kXgDzMUDhzusLxb7?usp=sharing)
 - The iCartoonFace recognition train and test dataset: [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/bUbdw5A ) (密码: 5Kv2M1)or  [Google Drive](https://drive.google.com/drive/folders/1m6pAL9Wbn8B1td0hFUj9RVRrSweNKskW?usp=sharing)
-- The iCartoonFace recognition personid infomations: [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/cji77eS ) (密码: N163o4)or  [Google Drive](https://drive.google.com/file/d/1rOmoseZXAKG5y7mkEsVAoaWan2dIrMzD/view?usp=sharing)
+- The iCartoonFace recognition personid infomations: [爱奇艺网盘](https://fft.cloud.iqiyi.com/s/cqvUvYT ) (密码: LCl0gj)or  [Google Drive](https://drive.google.com/file/d/1rOmoseZXAKG5y7mkEsVAoaWan2dIrMzD/view?usp=sharing)
 
 ## Evaluation
 
